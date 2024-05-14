@@ -1,0 +1,7 @@
+telebot
+sqlite3
+requests
+logging
+json
+time
+datetime
